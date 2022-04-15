@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Personal configuration
+G06K.*
+spacy_output/*
+prodigy_output/*
+*.spacy
+*.txt

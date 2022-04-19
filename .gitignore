@@ -136,3 +136,4 @@ prodigy_output/*
 *.txt
 
 .DS_Store
+spacy

@@ -1,0 +1,11 @@
+,word1,word2,relation,label
+0,flash memory,data storage device,rhyper,-1
+1,computer system,central processing unit,rhyper,-1
+2,non-volatile memory,electrically erasable programmable read-only memory,rhyper,-1
+3,motion sensor,acceleration sensor,hyper,1
+4,image processing,edge detection,rhyper,-1
+5,persistent memory,flash memory,rhyper,-1
+6,storage device,hard drive,rhyper,-1
+7,recording medium,hard disk,rhyper,-1
+8,test pattern,test pattern,rhyper,-1
+9,power source,power grid,rhyper,-1

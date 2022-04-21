@@ -1,0 +1,156 @@
+,Hypernym,Hyponym,Frequency
+0,home appliance,mobile robot,15
+1,computer network,the Internet,10
+2,artificial intelligence,Deep learning,6
+3,electronic device,electronic component,4
+4,storage device,hard disk,4
+5,communication network,the Internet,4
+6,point light source,light source,4
+7,the environment,foot traffic,3
+8,storage media,hard drives,3
+9,laser projector,display device,3
+10,semiconductor memory,flash memory,3
+11,storage medium,hard disk,3
+12,storage medium,magnetic disk,3
+13,machine learning,deep learning,3
+14,electronic devices,mobile phone,3
+15,machine learning,artificial intelligence,3
+16,test pattern,test pattern,3
+17,deep learning,Convolutional Neural Network,3
+18,optical system,optical system,3
+19,environmental conditions,carbon dioxide,2
+20,flexible display,display device,2
+21,storage medium,non-volatile memory,2
+22,storage medium,optical disk,2
+23,storage device,main memory,2
+24,storage device,input device,2
+25,inclination angle,inclination angle,2
+26,convolutional neural network,neural network,2
+27,non-volatile RAM,read-only memory,2
+28,moving images,digital camcorder,2
+29,wireless communication,inter-vehicle communication,2
+30,electromagnetic waves,millimeter waves,2
+31,moving images,digital camera,2
+32,machine learning method,logistic regression,2
+33,storage device,wireless communication,2
+34,wireless communication,wireless LAN,2
+35,storage medium,computer readable,2
+36,stochastic gradient descent,optimization algorithm,2
+37,brain waves,blood flow,2
+38,brain waves,pulse rate,2
+39,magnetic media,hard disks,2
+40,mobile device,mobile phone,2
+41,neural network,convolutional neural network,2
+42,digital image,the computer,2
+43,storage medium,semiconductor memory,2
+44,mass memory device,hard drive,2
+45,geographical location data,longitude and latitude,2
+46,main memory,volatile memory,2
+47,a vehicle,laptop computer,1
+48,surgical device,surgical instrument,1
+49,optical disc drive,compact disc,1
+50,wide-angle lens,fisheye lens,1
+51,non-volatile memory,magnetic storage,1
+52,state estimation,brain wave,1
+53,volatile memory,random-access memory,1
+54,storage medium,Electrically Erasable and Programmable ROM,1
+55,visible light spectrum,near-infrared light,1
+56,storage medium,flexible disk,1
+57,electronic pen,the height,1
+58,display device,augmented reality,1
+59,mobile phone,mobile device,1
+60,contact image sensor,optical sensor,1
+61,Convolutional neural network,neural network,1
+62,load sensor,load sensor,1
+63,storage media,flash memory,1
+64,active identifier,radio frequency identification,1
+65,remote system,the service,1
+66,Computer components,web services,1
+67,label printer,optical system,1
+68,mobile device,tablet computer,1
+69,computing device,smart phone,1
+70,reference table,effective aperture,1
+71,print media,print media,1
+72,color schemes,color scheme,1
+73,image sensor,complementary metal oxide semiconductor,1
+74,text processing,optical character recognition,1
+75,machine learning,neural networks,1
+76,wireless network,Wireless Fidelity,1
+77,light sensor,Complementary Metal Oxide Semiconductor,1
+78,storage medium,magnetic material,1
+79,storage device,Hard Disk Drive,1
+80,computing device,computing device,1
+81,embedded devices,tablet computers,1
+82,Convolutional Neural Network,neural network,1
+83,neural network,machine learning algorithm,1
+84,high-level shader language,High Level Shader Language,1
+85,a vehicle,tablet computer,1
+86,display device,display device,1
+87,display device,virtual reality,1
+88,peripheral bus,Peripheral Component Interconnect,1
+89,facial expression,facial expression,1
+90,loss function,objective function,1
+91,living room,occupancy grid,1
+92,a vehicle,mobile phone,1
+93,mobile device,smart phone,1
+94,a vehicle,digital camera,1
+95,geographical coordinates,GPS coordinates,1
+96,integrated circuit,central processing unit,1
+97,field of view,field of view,1
+98,programming languages,object oriented programming language,1
+99,communications network,local area network,1
+100,communications network,the Internet,1
+101,communications network,cellular telephone,1
+102,handheld devices,mobile telephones,1
+103,landing gear,landing gear,1
+104,landing gear,propulsion systems,1
+105,propulsion systems,gas turbine engine,1
+106,mobile terminal,personal digital assistant,1
+107,statistical method,principal component analysis,1
+108,machine learning algorithm,deep learning,1
+109,communication network,computer network,1
+110,communication network,cellular network,1
+111,optical media,optical discs,1
+112,electronic device,mobile phone,1
+113,start signal,the signal,1
+114,information processing system,electronic pen,1
+115,the image,two-dimensional code,1
+116,two-dimensional code,a square,1
+117,virtual environment,virtual environment,1
+118,digital camera,the system,1
+119,reflective glass,one-way mirror,1
+120,telecommunication network,the internet,1
+121,visible light,infrared light,1
+122,visible light,ultraviolet light,1
+123,payment service,the service,1
+124,real-time information,traffic jam,1
+125,lane line,speed limit,1
+126,recording medium,hard disk,1
+127,first position,point cloud data,1
+128,programming languages,object oriented programming languages,1
+129,point cloud data,Iterative Closest Point,1
+130,display device,liquid crystal display,1
+131,storage media,main memory,1
+132,output device,liquid crystal,1
+133,non-volatile memory,hard disk,1
+134,storage media,solid-state drive,1
+135,communication network,wide area network,1
+136,communication network,local area network,1
+137,the triangle,number of,1
+138,semiconductor memory,random access,1
+139,mobile device,laptop computer,1
+140,mobile device,tablet PC,1
+141,mobile phone,information processing system,1
+142,programmable memory,household appliances,1
+143,volatile memory,high density,1
+144,storage medium,Volatile memory,1
+145,artificial light,fluorescent light,1
+146,flash memory,USB memory,1
+147,personal computer,desktop computer,1
+148,personal computer,laptop computer,1
+149,computer readable,magnetic disk,1
+150,computer readable,optical disk,1
+151,optical system,plane mirror,1
+152,light source,laser diode,1
+153,recording medium,semiconductor memory,1
+154,text field,text field,1

@@ -1,0 +1,248 @@
+,word1,word2,relation,label
+0,wireless communication,wireless LAN,rhyper,-1
+1,wireless communication,wireless LAN,rhyper,-1
+2,semiconductor memory,random access,rhyper,-1
+3,visible light,ultraviolet light,rhyper,-1
+4,visible light,infrared light,rhyper,-1
+5,mobile device,mobile phone,rhyper,-1
+6,telecommunication network,the internet,rhyper,-1
+7,reflective glass,one-way mirror,rhyper,-1
+8,the system,digital camera,hyper,1
+9,mass memory device,hard drive,rhyper,-1
+10,virtual environment,virtual environment,hyper,1
+11,two-dimensional code,a square,rhyper,-1
+12,the image,two-dimensional code,rhyper,-1
+13,geographical location data,longitude and latitude,rhyper,-1
+14,geographical location data,longitude and latitude,rhyper,-1
+15,information processing system,electronic pen,rhyper,-1
+16,the signal,start signal,hyper,1
+17,storage medium,computer readable,rhyper,-1
+18,storage medium,computer readable,rhyper,-1
+19,storage medium,hard disk,rhyper,-1
+20,storage medium,semiconductor memory,rhyper,-1
+21,storage medium,hard disk,rhyper,-1
+22,storage medium,semiconductor memory,rhyper,-1
+23,electronic device,mobile phone,rhyper,-1
+24,neural network,convolutional neural network,rhyper,-1
+25,communication network,the Internet,rhyper,-1
+26,communication network,the Internet,rhyper,-1
+27,semiconductor memory,flash memory,rhyper,-1
+28,optical media,optical discs,rhyper,-1
+29,magnetic media,hard disks,rhyper,-1
+30,communication network,cellular network,rhyper,-1
+31,communication network,the Internet,rhyper,-1
+32,communication network,computer network,rhyper,-1
+33,machine learning algorithm,deep learning,rhyper,-1
+34,principal component analysis,statistical method,hyper,1
+35,mobile terminal,personal digital assistant,rhyper,-1
+36,propulsion systems,gas turbine engine,rhyper,-1
+37,landing gear,propulsion systems,rhyper,-1
+38,landing gear,landing gear,rhyper,-1
+39,communication network,the Internet,rhyper,-1
+40,handheld devices,mobile telephones,rhyper,-1
+41,communications network,cellular telephone,rhyper,-1
+42,communications network,the Internet,rhyper,-1
+43,communications network,local area network,rhyper,-1
+44,programming languages,object oriented programming language,rhyper,-1
+45,field of view,field of view,rhyper,-1
+46,integrated circuit,central processing unit,rhyper,-1
+47,display device,flexible display,hyper,1
+48,display device,laser projector,hyper,1
+49,display device,laser projector,hyper,1
+50,display device,laser projector,hyper,1
+51,display device,flexible display,hyper,1
+52,inclination angle,inclination angle,hyper,1
+53,inclination angle,inclination angle,hyper,1
+54,non-volatile RAM,read-only memory,rhyper,-1
+55,non-volatile RAM,read-only memory,rhyper,-1
+56,wireless communication,inter-vehicle communication,rhyper,-1
+57,electromagnetic waves,millimeter waves,rhyper,-1
+58,the service,payment service,hyper,1
+59,wireless communication,inter-vehicle communication,rhyper,-1
+60,electromagnetic waves,millimeter waves,rhyper,-1
+61,geographical coordinates,GPS coordinates,rhyper,-1
+62,real-time information,traffic jam,rhyper,-1
+63,recording medium,hard disk,rhyper,-1
+64,recording medium,semiconductor memory,rhyper,-1
+65,moving images,digital camera,rhyper,-1
+66,moving images,digital camcorder,rhyper,-1
+67,light source,laser diode,rhyper,-1
+68,optical system,plane mirror,rhyper,-1
+69,computer readable,optical disk,rhyper,-1
+70,computer readable,magnetic disk,rhyper,-1
+71,personal computer,laptop computer,rhyper,-1
+72,personal computer,desktop computer,rhyper,-1
+73,flash memory,USB memory,rhyper,-1
+74,magnetic media,hard disks,rhyper,-1
+75,machine learning,deep learning,rhyper,-1
+76,machine learning,artificial intelligence,rhyper,-1
+77,Deep learning,artificial intelligence,hyper,1
+78,Deep learning,artificial intelligence,hyper,1
+79,deep learning,Convolutional Neural Network,rhyper,-1
+80,home appliance,mobile robot,rhyper,-1
+81,home appliance,mobile robot,rhyper,-1
+82,home appliance,mobile robot,rhyper,-1
+83,home appliance,mobile robot,rhyper,-1
+84,home appliance,mobile robot,rhyper,-1
+85,machine learning,deep learning,rhyper,-1
+86,machine learning,artificial intelligence,rhyper,-1
+87,Deep learning,artificial intelligence,hyper,1
+88,Deep learning,artificial intelligence,hyper,1
+89,deep learning,Convolutional Neural Network,rhyper,-1
+90,home appliance,mobile robot,rhyper,-1
+91,home appliance,mobile robot,rhyper,-1
+92,home appliance,mobile robot,rhyper,-1
+93,home appliance,mobile robot,rhyper,-1
+94,home appliance,mobile robot,rhyper,-1
+95,machine learning,deep learning,rhyper,-1
+96,machine learning,artificial intelligence,rhyper,-1
+97,Deep learning,artificial intelligence,hyper,1
+98,Deep learning,artificial intelligence,hyper,1
+99,deep learning,Convolutional Neural Network,rhyper,-1
+100,home appliance,mobile robot,rhyper,-1
+101,home appliance,mobile robot,rhyper,-1
+102,home appliance,mobile robot,rhyper,-1
+103,home appliance,mobile robot,rhyper,-1
+104,home appliance,mobile robot,rhyper,-1
+105,artificial light,fluorescent light,rhyper,-1
+106,environmental conditions,carbon dioxide,rhyper,-1
+107,environmental conditions,carbon dioxide,rhyper,-1
+108,neural network,convolutional neural network,hyper,1
+109,neural network,convolutional neural network,hyper,1
+110,machine learning method,logistic regression,rhyper,-1
+111,machine learning method,logistic regression,rhyper,-1
+112,Volatile memory,storage medium,hyper,1
+113,volatile memory,high density,rhyper,-1
+114,programmable memory,household appliances,rhyper,-1
+115,storage medium,optical disk,rhyper,-1
+116,storage medium,non-volatile memory,rhyper,-1
+117,storage medium,magnetic disk,rhyper,-1
+118,storage medium,optical disk,rhyper,-1
+119,storage medium,magnetic disk,rhyper,-1
+120,storage medium,non-volatile memory,rhyper,-1
+121,information processing system,mobile phone,hyper,1
+122,mobile device,tablet PC,rhyper,-1
+123,mobile device,laptop computer,rhyper,-1
+124,mobile device,smart phone,rhyper,-1
+125,the triangle,number of,rhyper,-1
+126,semiconductor memory,flash memory,rhyper,-1
+127,communication network,local area network,rhyper,-1
+128,communication network,wide area network,rhyper,-1
+129,storage media,solid-state drive,rhyper,-1
+130,non-volatile memory,hard disk,rhyper,-1
+131,output device,liquid crystal,rhyper,-1
+132,storage media,main memory,rhyper,-1
+133,display device,liquid crystal display,rhyper,-1
+134,computer network,the Internet,rhyper,-1
+135,computer network,the Internet,rhyper,-1
+136,computer network,the Internet,rhyper,-1
+137,main memory,volatile memory,rhyper,-1
+138,main memory,volatile memory,rhyper,-1
+139,optimization algorithm,stochastic gradient descent,hyper,1
+140,mass memory device,hard drive,rhyper,-1
+141,optimization algorithm,stochastic gradient descent,hyper,1
+142,computer network,the Internet,rhyper,-1
+143,point cloud data,Iterative Closest Point,rhyper,-1
+144,computer network,the Internet,rhyper,-1
+145,programming languages,object oriented programming languages,rhyper,-1
+146,point cloud data,first position,hyper,1
+147,computer network,the Internet,rhyper,-1
+148,computer network,the Internet,rhyper,-1
+149,lane line,speed limit,rhyper,-1
+150,a vehicle,digital camera,rhyper,-1
+151,a vehicle,tablet computer,rhyper,-1
+152,a vehicle,mobile phone,rhyper,-1
+153,a vehicle,laptop computer,rhyper,-1
+154,computer network,the Internet,rhyper,-1
+155,computer network,the Internet,rhyper,-1
+156,computer network,the Internet,rhyper,-1
+157,surgical device,surgical instrument,rhyper,-1
+158,optical disc drive,compact disc,rhyper,-1
+159,non-volatile memory,magnetic storage,rhyper,-1
+160,volatile memory,random-access memory,rhyper,-1
+161,storage medium,Electrically Erasable and Programmable ROM,rhyper,-1
+162,visible light spectrum,near-infrared light,rhyper,-1
+163,storage medium,magnetic disk,rhyper,-1
+164,storage medium,flexible disk,rhyper,-1
+165,storage medium,hard disk,rhyper,-1
+166,storage device,hard disk,rhyper,-1
+167,storage device,hard disk,rhyper,-1
+168,brain waves,pulse rate,rhyper,-1
+169,brain waves,blood flow,rhyper,-1
+170,electronic pen,the height,rhyper,-1
+171,brain waves,blood flow,rhyper,-1
+172,brain waves,pulse rate,rhyper,-1
+173,state estimation,brain wave,rhyper,-1
+174,semiconductor memory,flash memory,rhyper,-1
+175,wide-angle lens,fisheye lens,rhyper,-1
+176,moving images,digital camera,rhyper,-1
+177,moving images,digital camcorder,rhyper,-1
+178,electronic device,electronic component,rhyper,-1
+179,electronic device,electronic component,rhyper,-1
+180,electronic device,electronic component,rhyper,-1
+181,electronic device,electronic component,rhyper,-1
+182,storage device,main memory,rhyper,-1
+183,storage device,input device,rhyper,-1
+184,storage device,hard disk,rhyper,-1
+185,storage device,wireless communication,rhyper,-1
+186,storage device,input device,rhyper,-1
+187,storage device,hard disk,rhyper,-1
+188,storage device,wireless communication,rhyper,-1
+189,storage device,main memory,rhyper,-1
+190,neural network,convolutional neural network,rhyper,-1
+191,electronic devices,mobile phone,rhyper,-1
+192,storage media,hard drives,rhyper,-1
+193,the environment,foot traffic,rhyper,-1
+194,mobile device,mobile phone,hyper,1
+195,mobile device,tablet computer,rhyper,-1
+196,mobile device,mobile phone,rhyper,-1
+197,the environment,foot traffic,rhyper,-1
+198,electronic devices,mobile phone,rhyper,-1
+199,storage media,hard drives,rhyper,-1
+200,occupancy grid,living room,hyper,1
+201,the environment,foot traffic,rhyper,-1
+202,electronic devices,mobile phone,rhyper,-1
+203,storage media,hard drives,rhyper,-1
+204,objective function,loss function,hyper,1
+205,facial expression,facial expression,hyper,1
+206,peripheral bus,Peripheral Component Interconnect,rhyper,-1
+207,display device,virtual reality,rhyper,-1
+208,display device,display device,rhyper,-1
+209,display device,augmented reality,rhyper,-1
+210,high-level shader language,High Level Shader Language,rhyper,-1
+211,machine learning algorithm,neural network,hyper,1
+212,neural network,Convolutional Neural Network,hyper,1
+213,embedded devices,tablet computers,rhyper,-1
+214,computing device,computing device,rhyper,-1
+215,light source,point light source,hyper,1
+216,light source,point light source,hyper,1
+217,light source,point light source,hyper,1
+218,light source,point light source,hyper,1
+219,storage device,Hard Disk Drive,rhyper,-1
+220,storage medium,magnetic material,rhyper,-1
+221,light sensor,Complementary Metal Oxide Semiconductor,rhyper,-1
+222,wireless network,Wireless Fidelity,rhyper,-1
+223,machine learning,neural networks,rhyper,-1
+224,neural network,Convolutional neural network,hyper,1
+225,load sensor,load sensor,rhyper,-1
+226,storage media,flash memory,rhyper,-1
+227,active identifier,radio frequency identification,rhyper,-1
+228,remote system,the service,rhyper,-1
+229,Computer components,web services,rhyper,-1
+230,optical sensor,contact image sensor,hyper,1
+231,label printer,optical system,rhyper,-1
+232,computing device,smart phone,rhyper,-1
+233,reference table,effective aperture,rhyper,-1
+234,print media,print media,rhyper,-1
+235,test pattern,test pattern,rhyper,-1
+236,test pattern,test pattern,rhyper,-1
+237,optical system,optical system,rhyper,-1
+238,optical system,optical system,rhyper,-1
+239,test pattern,test pattern,rhyper,-1
+240,optical system,optical system,rhyper,-1
+241,color schemes,color scheme,rhyper,-1
+242,digital image,the computer,rhyper,-1
+243,digital image,the computer,rhyper,-1
+244,image sensor,complementary metal oxide semiconductor,rhyper,-1
+245,text processing,optical character recognition,rhyper,-1
+246,text field,text field,hyper,1

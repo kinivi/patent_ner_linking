@@ -1,0 +1,85 @@
+{ 
+    "rhyper-multi" : [
+        [ 
+            {"LOWER": {"IN": ["features", "properties"]}, "OP":"!"},
+            {"ENT_TYPE": "TECH"},
+            {"ORTH": ",", "OP": "?"},
+            {"LOWER": "such"},
+            {"LOWER": "as"},
+            {"LOWER": {"IN": ["a", "an","the"]}, "OP":"?"},
+            {"ENT_TYPE": "TECH"}
+        ],
+        [ 
+            {"ENT_TYPE": "TECH"},
+            {"ORTH": ",", "OP": "?"},
+            {"LOWER": "including"},
+            {"LOWER": {"IN": ["a", "an","the"]}, "OP":"?"},
+            {"ENT_TYPE": "TECH"} 
+        ]
+    ],
+
+    "hyper-single" : [
+        [
+            {"LOWER": {"IN": ["unlike", "like"]}},
+            {"LOWER": {"IN": ["most", "all", "any", "other"]}},
+            {"LOWER": {"IN": ["a", "an","the"]}, "OP":"?"},
+            {"ENT_TYPE": "TECH"},
+            {"ORTH": ","},
+            {"LOWER": {"IN": ["a", "an","the"]}, "OP":"?"},
+            {"ENT_TYPE": "TECH"}
+        ]
+    ],
+
+    "rhyper-single" : [
+        [ 
+            {"ENT_TYPE": "TECH"},
+            {"LOWER": "which"},
+            {"LOWER": {"IN": ["is", "are"]}},
+            {"LOWER": {"IN": ["a", "an"]}},
+            {"LOWER": {"IN": ["example", "class","kind"]}},
+            {"LOWER": "of"},
+            {"LOWER": {"IN": ["a", "an","the"]}, "OP":"?"},
+            {"ENT_TYPE": "TECH"}
+        ],
+        [ 
+            {"ENT_TYPE": "TECH"},
+            {"LOWER": {"IN": ["and", "or"]}},
+            {"LOWER": {"IN": ["any", "some"]}},
+            {"LOWER": "other"},
+            {"LOWER": {"IN": ["a", "an","the"]}, "OP":"?"},
+            {"ENT_TYPE": "TECH"}
+        ],
+        [
+            {"ENT_TYPE": "TECH"},
+            {"ORTH": ",", "OP": "?"},
+            {"LOWER": "which"},
+            {"LOWER": {"IN": ["is", "are"]}},
+            {"LOWER": {"IN": ["also", "sometimes"]}, "OP":"?"},
+            {"LOWER": "called"},
+            {"LOWER": {"IN": ["a", "an","the"]}, "OP":"?"},
+            {"ENT_TYPE": "TECH"}
+        ],
+        [ 
+            {"ENT_TYPE": "TECH"},
+            {"LOWER": "a"},
+            {"LOWER": "special"},
+            {"LOWER": "case"},
+            {"LOWER": "of"},
+            {"LOWER": {"IN": ["a", "an","the"]}, "OP":"?"},
+            {"ENT_TYPE": "TECH"}
+        ],
+        [ 
+            {"ENT_TYPE": "TECH"},
+            {"LOWER": {"IN": ["is", "are"]}},
+            {"LOWER": {"IN": ["a", "an","the"]}},
+            {"ENT_TYPE": "TECH"},
+            {"LOWER": "that"}
+        ],
+        [
+            {"ENT_TYPE": "TECH"},
+            {"LOWER": {"IN": ["is", "are"]}},
+            {"LOWER": {"IN": ["a", "an","the"]}},
+            {"ENT_TYPE": "TECH"}
+        ]   
+    ]
+}

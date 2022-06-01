@@ -129,11 +129,9 @@ dmypy.json
 .pyre/
 
 # Personal configuration
-G06K.*
 spacy_output/*
 prodigy_output/*
 *.spacy
-*.txt
 
 .DS_Store
 spacy

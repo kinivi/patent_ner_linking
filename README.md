@@ -1,5 +1,4 @@
 # Named entitity recognition (NER) and Entity linking (EL) on the dataset of Patents
-Open [project.ipynb](./project.ipynb) to run the code
 
 The main goals of this project are:
 - Train NER model with dataset of Patents in the specific domain
@@ -7,7 +6,10 @@ The main goals of this project are:
 - Implement EL with Hearst patterns
 - Validate linking results with several methods, inluding Wikidata
 
-project.ipynb - main notebook
+## Structure
+- [project.ipynb](./project.ipynb) - main notebook
+- [G06K.txt.gz](./G06K.txt.gz) - archive with patent texts
+- [patterns.json](./patterns.json) - Hearst patterns configuration for SpaCy
 
 ## Setup
 1) Untar data file

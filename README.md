@@ -12,11 +12,15 @@ The main goals of this project are:
 - [patterns.json](./patterns.json) - Hearst patterns configuration for SpaCy
 
 ## Setup
-1) Untar data file
-2) Install dependencies
-3) Open project.ipynb and run 1st cell to chek imports
-
-
+1) Install dependencies from [requirements.txt](./requirements.txt)
+2) Unpack data:  
+`tar -xvf G06K.txt.gz`
+3) Open [project.ipynb](./project.ipynb) and run first cell to chek that all imports works propperly
+## Notebook structure
+### Data processing
+### Training NER model
+### Hearst patterns for EL
+### Automatic validation of EL results
 ---
 
 ## 🫡 Thanks 

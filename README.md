@@ -42,6 +42,7 @@ Additionaly, if you have access to the Prodiy, you can apply Active Learning to 
 <img height="100" alt="Screenshot 2022-06-03 at 11 33 11" src="https://user-images.githubusercontent.com/13486777/171829037-4c3fbd3c-a4be-4e0a-b6f9-2a866b64bc30.png">
 </p> 
 Thise section is dedicated to extracting potential Entity linking (like hypernyms) using Hearst Patterns.
+
 ### Automatic validation of EL results
 <p align="left">
 <img height="100" alt="Screenshot 2022-06-03 at 11 34 55" src="https://user-images.githubusercontent.com/13486777/171829378-7bfd461d-d702-414e-a29d-f04bafd4e22e.png">

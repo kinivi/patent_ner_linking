@@ -9,7 +9,9 @@ The main goals of this project are:
 ## Structure
 - [project.ipynb](./project.ipynb) - main notebook
 - [G06K.txt.gz](./G06K.txt.gz) - archive with patent texts
-- [patterns.json](./patterns.json) - Hearst patterns configuration for SpaCy
+- [configs/base_config.cfg](./configs/base_config.cfg) - Base config to train NER SpaCy pipeline
+- [hearst_patterns/patterns.json](./hearst_patterns/patterns.json) - Hearst patterns configuration for SpaCy
+- [extracted_patterns](./extracted_patterns) - Extracted patterns (EL) from G06K texts
 
 ## Setup
 1) Install dependencies from [requirements.txt](./requirements.txt)

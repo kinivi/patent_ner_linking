@@ -1,10 +1,10 @@
-# Named entitity recognition (NER) and Entity linking (EL) on the dataset of Patents
+# Named entitity recognition (NER) and Detecting Hyponym\Hypernym relationship on the dataset of Patents
 
 The main goals of this project are:
 - Train NER model with dataset of Patents in the specific domain
 - Fine-tune with prodidy 
-- Implement EL with Hearst patterns
-- Validate linking results with several methods, inluding Wikidata
+- Implement automatic detection of hyponyms\hypernyms with Hearst patterns
+- Validate detection results with several methods, inluding Wikidata
 
 ## Structure
 - [project.ipynb](./project.ipynb) - main notebook
@@ -37,13 +37,13 @@ In this section patent text read and prcessed to extract potential Named entitie
 Next, we are training the model on the created dataset.  
 Additionaly, if you have access to the Prodiy, you can apply Active Learning to tune the model. 
 
-### Hearst patterns for EL
+### Hearst patterns for hyponym detection
 <p align="left">
 <img height="100" alt="Screenshot 2022-06-03 at 11 33 11" src="https://user-images.githubusercontent.com/13486777/171829037-4c3fbd3c-a4be-4e0a-b6f9-2a866b64bc30.png">
 </p> 
 Thise section is dedicated to extracting potential Entity linking (like hypernyms) using Hearst Patterns.
 
-### Automatic validation of EL results
+### Automatic validation of the results
 <p align="left">
 <img height="100" alt="Screenshot 2022-06-03 at 11 34 55" src="https://user-images.githubusercontent.com/13486777/171829378-7bfd461d-d702-414e-a29d-f04bafd4e22e.png">
 </p> 
